@@ -1,0 +1,2027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>AC426/ACA426</name>
+    <description><![CDATA[<div style="width:220px; text-align:center;">
+<div style="width:210px; text-align:center;">
+<div style=" background: #000; color: #fff; font-size: 14px; text-align:left; border: 1px solid #000; padding: 2px 6px; text-shadow: 0 1px 0 #000; box-shadow: 0 1px 3px rgba(0,0,0,0.6); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#808080), color-stop(2%,#303030), color-stop(100%,#0c0c0c));"><span style="font-size: 14px; font-weight: bold;"><a href="https://www.flightradar24.com/flight/ac426" style="color: #fff; cursor: pointer;text-decoration: none;">AC426</a></span> / ACA426<br/>Air Canada (Star Alliance livery)</div>
+<div>
+<span style="margin: 125px 0 0 10px; color: #f0f0f0; font-size: 0.7em !important; padding: 2px 3px; position: absolute; text-align: right; text-shadow: 0 1px 0 #000; width: 194px; background: -moz-linear-gradient(left,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.45) 65%, rgba(0,0,0,0.45) 100%);  background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(0,0,0,0)), color-stop(65%,rgba(0,0,0,0.45)), color-stop(100%,rgba(0,0,0,0.45)));  background: -webkit-linear-gradient(left,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.45) 65%,rgba(0,0,0,0.45) 100%); background: -o-linear-gradient(left,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.45) 65%,rgba(0,0,0,0.45) 100%);  background: -ms-linear-gradient(left,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.45) 65%,rgba(0,0,0,0.45) 100%); background: linear-gradient(to right,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.45) 65%,rgba(0,0,0,0.45) 100%); ">&copy; Michael Durning</span>
+<a title="View bigger image of C-FDRH at Jetphotos.com" target="_blank" href="https://www.flightradar24.com/redir.php?url=https%3A%2F%2Fwww.jetphotos.com%2Fphoto%2F9258381">
+<img style="width:210px;" src="https://cdn.jetphotos.com/200/6/18975_1552239993_tb.jpg?v=0"/>
+</a>
+</div>
+<div style="border-top: 1px solid #005c90; color: #fff; padding-bottom: 5px; box-shadow: 0 0 1px #9BE3F6 inset, 0 1px 0 #9BE3F6 inset, 0 -1px 3px rgba(0,0,0,0.4); background:rgba(43,114,173,1); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(92,184,229,1)), color-stop(100%,rgba(43,114,173,1)));">
+<a style="text-decoration: none; color: rgb(255, 255, 255); font-size: 12px; width:77px; display: inline-block;" title="Toronto Airport" href="https://www.flightradar24.com/airport/yyz/departures"><h3 style="padding: 0px; margin: 10px 0px 0px; font-size: 16px; ">YYZ</h3>Toronto</a>
+<span style="background: url(https://www.flightradar24.com/static/images/userUI_sprite.png?14) no-repeat scroll 0 -464px rgba(0, 0, 0, 0); border: medium none; display: inline-block; height: 16px; width: 45px;"></span>
+<a style="text-decoration: none; color: rgb(255, 255, 255); font-size: 12px; width:77px; display: inline-block;" title="Montreal Airport" href="https://www.flightradar24.com/airport/yul/arrivals"><h3 style="padding: 0px; margin: 10px 0px 0px; font-size: 16px;">YUL</h3>Montreal</a>
+<div style=" margin-top:10px;">
+<div style="display: inline-block; font-size: 12px; padding: 0 5px;">
+<div>
+<span style="color: #c1eaff;" title="Scheduled Time of Departure">STD </span>
+<span title="2019-03-26 00:30">00:30</span> <span title="Coordinated Universal Time">UTC</span>
+</div>
+<div>
+<span style="color: #c1eaff;" title="Actual Time of Departure">ATD </span>
+<span title="2019-03-26 00:49">00:49</span> <span title="Coordinated Universal Time">UTC</span>
+</div>
+</div>
+<div style="display: inline-block; font-size: 12px; padding: 0 5px;">
+<div>
+<span style="color: #c1eaff;" title="Scheduled Time of Arrival">STA </span>
+<span title="2019-03-26 01:44">01:44</span> <span title="Coordinated Universal Time">UTC</span>
+</div>
+<div>
+<span style="color: #c1eaff;" title="Estimated Time of Arrival">ETA </span>
+<span title="2019-03-26 01:37">01:37</span> <span title="Coordinated Universal Time">UTC</span>
+</div>
+</div>
+</div>
+<br style="clear: both;"/>
+</div>
+
+<div style="display: block;">
+<table style="border-collapse: collapse; width: 100%;">
+<tr style="border-right: 1px solid #dadada; ">
+<td style="background: none repeat scroll 0 0 #dadada; padding: 0; width: 31px;">
+<span style="background: url(https://www.flightradar24.com/static/images/userUI_sprite.png?14) no-repeat scroll -208px -464px rgba(0, 0, 0, 0); height: 26px; margin: 8px 0 0 4px; width: 23px; display: block;"></span>
+</td>
+<td colspan="2" style="border-bottom: 1px solid #dadada; border-left: 1px solid #dadada; color: #666; line-height: 1.1em; padding: 3px 6px; vertical-align: top; font-size: 14px;">
+Aircraft<span style="float: right; font-size: 12px;">(A320)</span><br>
+<span style="color: #333; font-size: 16px; font-weight: bold; line-height: 1.3em;">Airbus A320-211</span>
+</td>
+</tr>
+<tr style="border-right: 1px solid #dadada; ">
+<td style="background: none repeat scroll 0 0 #dadada; padding: 0; width: 31px;">
+<td colspan="2" style="border-bottom: 1px solid #dadada; border-left: 1px solid #dadada; color: #666; line-height: 1.1em; padding: 3px 6px; vertical-align: top; font-size: 14px;">
+Registration<br>
+<span style="color: #333; font-size: 16px; font-weight: bold; line-height: 1.3em;"><a href="https://www.flightradar24.com/reg/c-fdrh" style="text-decoration: none; color: #333;">C-FDRH</a></span>
+</td>
+</tr>
+</table>
+</div>
+
+</div>
+</div>]]></description>
+    <Folder>
+      <name>Route</name>
+      <Placemark>
+        <name>2019-03-26 00:51:54 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>5,100 ft</span></div>
+<div><span><b>Speed:</b></span> <span>230 kt</span></div>
+<div><span><b>Heading:</b></span> <span>43&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T00:51:54+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>43</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-79.46667,43.73333,1554.48</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 00:52:54 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>7,400 ft</span></div>
+<div><span><b>Speed:</b></span> <span>280 kt</span></div>
+<div><span><b>Heading:</b></span> <span>89&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T00:52:54+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>89</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-79.38333,43.73333,2255.52</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 00:53:55 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>10,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>310 kt</span></div>
+<div><span><b>Heading:</b></span> <span>101&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T00:53:55+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>101</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-79.27189,43.71938,3048</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 00:54:57 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>11,400 ft</span></div>
+<div><span><b>Speed:</b></span> <span>340 kt</span></div>
+<div><span><b>Heading:</b></span> <span>70&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T00:54:57+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>70</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-79.14436,43.73855,3474.72</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 00:55:55 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>13,700 ft</span></div>
+<div><span><b>Speed:</b></span> <span>390 kt</span></div>
+<div><span><b>Heading:</b></span> <span>81&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T00:55:55+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>81</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-79.006,43.75686,4175.76</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 00:56:56 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>16,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>410 kt</span></div>
+<div><span><b>Heading:</b></span> <span>74&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T00:56:56+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>74</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.84736,43.78453,4876.8</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 00:57:37 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>17,800 ft</span></div>
+<div><span><b>Speed:</b></span> <span>440 kt</span></div>
+<div><span><b>Heading:</b></span> <span>60&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T00:57:37+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>60</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.74809,43.8121,5425.44</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 00:57:56 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>17,800 ft</span></div>
+<div><span><b>Speed:</b></span> <span>430 kt</span></div>
+<div><span><b>Heading:</b></span> <span>89&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T00:57:56+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>89</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.70122,43.82322,5425.44</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 00:59:00 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>19,800 ft</span></div>
+<div><span><b>Speed:</b></span> <span>450 kt</span></div>
+<div><span><b>Heading:</b></span> <span>70&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T00:59:00+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>70</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.5229,43.8571,6035.04</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 00:59:42 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>21,500 ft</span></div>
+<div><span><b>Speed:</b></span> <span>460 kt</span></div>
+<div><span><b>Heading:</b></span> <span>68&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T00:59:42+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>68</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.40621,43.88443,6553.2</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:00:37 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>23,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>470 kt</span></div>
+<div><span><b>Heading:</b></span> <span>75&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:00:37+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>75</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.23251,43.9221,7010.4</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:01:39 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>24,500 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Heading:</b></span> <span>74&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:01:39+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>74</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.04263,43.96272,7467.6</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:02:03 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>24,700 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Heading:</b></span> <span>89&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:02:03+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>89</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-77.97516,43.97332,7528.56</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:04:43 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>29,500 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Heading:</b></span> <span>60&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:04:43+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>60</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-77.53614,44.12072,8991.6</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:05:04 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>29,600 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Heading:</b></span> <span>55&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:05:04+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>55</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-77.48142,44.15253,9022.08</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:05:43 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>30,800 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Heading:</b></span> <span>62&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:05:43+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>62</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-77.36912,44.19873,9387.84</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:06:43 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>31,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Heading:</b></span> <span>69&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:06:43+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>69</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-77.199,44.25774,9448.8</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:07:36 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>31,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Heading:</b></span> <span>63&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:07:36+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>63</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-77.02345,44.3206,9448.8</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:08:38 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>31,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Heading:</b></span> <span>62&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:08:38+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>62</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-76.82807,44.39169,9448.8</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:09:36 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>31,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Heading:</b></span> <span>67&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:09:36+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>67</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-76.65201,44.45146,9448.8</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:10:37 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>31,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Heading:</b></span> <span>64&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:10:37+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>64</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-76.48358,44.50791,9448.8</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:11:38 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>31,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Heading:</b></span> <span>59&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:11:38+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>59</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-76.30109,44.57653,9448.8</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:12:41 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>31,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Heading:</b></span> <span>60&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:12:41+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>60</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-76.12744,44.64469,9448.8</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:13:42 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>31,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>500 kt</span></div>
+<div><span><b>Heading:</b></span> <span>75&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:13:42+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>75</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-75.95599,44.69519,9448.8</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:14:42 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>31,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>520 kt</span></div>
+<div><span><b>Heading:</b></span> <span>67&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:14:42+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>67</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-75.78445,44.7444,9448.8</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:15:42 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>31,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>520 kt</span></div>
+<div><span><b>Heading:</b></span> <span>71&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:15:42+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>71</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-75.59023,44.79287,9448.8</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:16:47 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>30,900 ft</span></div>
+<div><span><b>Speed:</b></span> <span>520 kt</span></div>
+<div><span><b>Heading:</b></span> <span>67&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:16:47+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>67</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-75.40389,44.84109,9418.32</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:17:43 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>28,400 ft</span></div>
+<div><span><b>Speed:</b></span> <span>510 kt</span></div>
+<div><span><b>Heading:</b></span> <span>64&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:17:43+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>64</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-75.21867,44.89452,8656.32</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:18:54 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>25,700 ft</span></div>
+<div><span><b>Speed:</b></span> <span>500 kt</span></div>
+<div><span><b>Heading:</b></span> <span>74&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:18:54+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>74</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-75.01343,44.9464,7833.36</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:19:46 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>22,800 ft</span></div>
+<div><span><b>Speed:</b></span> <span>500 kt</span></div>
+<div><span><b>Heading:</b></span> <span>62&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:19:46+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>62</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-74.852,44.99488,6949.44</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:20:46 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>20,400 ft</span></div>
+<div><span><b>Speed:</b></span> <span>500 kt</span></div>
+<div><span><b>Heading:</b></span> <span>62&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:20:46+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>62</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-74.66923,45.05552,6217.92</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:21:46 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>17,800 ft</span></div>
+<div><span><b>Speed:</b></span> <span>490 kt</span></div>
+<div><span><b>Heading:</b></span> <span>60&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:21:46+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>60</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-74.49055,45.12162,5425.44</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:22:50 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>15,700 ft</span></div>
+<div><span><b>Speed:</b></span> <span>470 kt</span></div>
+<div><span><b>Heading:</b></span> <span>51&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:22:50+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>51</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-74.32692,45.19769,4785.36</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:23:50 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>13,500 ft</span></div>
+<div><span><b>Speed:</b></span> <span>440 kt</span></div>
+<div><span><b>Heading:</b></span> <span>64&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:23:50+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>64</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-74.1732,45.26422,4114.8</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:24:50 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>11,600 ft</span></div>
+<div><span><b>Speed:</b></span> <span>410 kt</span></div>
+<div><span><b>Heading:</b></span> <span>50&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:24:50+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>50</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-74.04345,45.33008,3535.68</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:25:31 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>10,300 ft</span></div>
+<div><span><b>Speed:</b></span> <span>310 kt</span></div>
+<div><span><b>Heading:</b></span> <span>54&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:25:31+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>54</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-73.97266,45.36996,3139.44</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:26:30 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>8,900 ft</span></div>
+<div><span><b>Speed:</b></span> <span>280 kt</span></div>
+<div><span><b>Heading:</b></span> <span>41&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:26:30+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>41</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-73.8794,45.4309,2712.72</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:27:29 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>7,500 ft</span></div>
+<div><span><b>Speed:</b></span> <span>280 kt</span></div>
+<div><span><b>Heading:</b></span> <span>43&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:27:29+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>43</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-73.80245,45.48993,2286</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:28:30 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>5,100 ft</span></div>
+<div><span><b>Speed:</b></span> <span>280 kt</span></div>
+<div><span><b>Heading:</b></span> <span>41&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:28:30+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>41</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-73.73405,45.55095,1554.48</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:29:33 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>3,900 ft</span></div>
+<div><span><b>Speed:</b></span> <span>250 kt</span></div>
+<div><span><b>Heading:</b></span> <span>42&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:29:33+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>42</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-73.67131,45.60855,1188.72</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:30:41 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>3,200 ft</span></div>
+<div><span><b>Speed:</b></span> <span>240 kt</span></div>
+<div><span><b>Heading:</b></span> <span>42&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:30:41+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>42</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-73.6117,45.66285,975.36</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:31:34 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>3,100 ft</span></div>
+<div><span><b>Speed:</b></span> <span>220 kt</span></div>
+<div><span><b>Heading:</b></span> <span>105&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:31:34+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>105</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-73.55573,45.67566,944.88</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:32:35 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>3,100 ft</span></div>
+<div><span><b>Speed:</b></span> <span>170 kt</span></div>
+<div><span><b>Heading:</b></span> <span>133&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:32:35+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>133</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-73.49779,45.66517,944.88</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:33:36 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>2,900 ft</span></div>
+<div><span><b>Speed:</b></span> <span>160 kt</span></div>
+<div><span><b>Heading:</b></span> <span>227&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:33:36+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>227</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-73.49348,45.63365,883.92</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:34:37 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>2,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>150 kt</span></div>
+<div><span><b>Heading:</b></span> <span>227&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:34:37+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>227</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-73.52645,45.59193,609.6</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:35:35 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>1,200 ft</span></div>
+<div><span><b>Speed:</b></span> <span>130 kt</span></div>
+<div><span><b>Heading:</b></span> <span>216&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:35:35+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>216</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-73.57169,45.54554,365.76</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2019-03-26 01:36:39 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>500 ft</span></div>
+<div><span><b>Speed:</b></span> <span>130 kt</span></div>
+<div><span><b>Heading:</b></span> <span>245&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2019-03-26T01:36:39+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>245</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-73.7,45.48333,152.4</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Trail</name>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff00ff72</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-79.46667,43.73333,1554.48 -79.38333,43.73333,2255.52</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-1</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>5,100 ft - 7,400 ft</span></div>
+<div><span><b>Speed:</b></span> <span>230 kt - 280 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 00:51:54 UTC<br/>2019-03-26 00:52:54 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff00ff9c</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-79.38333,43.73333,2255.52 -79.27189,43.71938,3048</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-2</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>7,400 ft - 10,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>280 kt - 310 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 00:52:54 UTC<br/>2019-03-26 00:53:55 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff00ffe4</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-79.27189,43.71938,3048 -79.14436,43.73855,3474.72</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-3</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>10,000 ft - 11,400 ft</span></div>
+<div><span><b>Speed:</b></span> <span>310 kt - 340 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 00:53:55 UTC<br/>2019-03-26 00:54:57 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff00ffe4</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-79.14436,43.73855,3474.72 -79.006,43.75686,4175.76</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-4</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>11,400 ft - 13,700 ft</span></div>
+<div><span><b>Speed:</b></span> <span>340 kt - 390 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 00:54:57 UTC<br/>2019-03-26 00:55:55 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff00c0ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-79.006,43.75686,4175.76 -78.84736,43.78453,4876.8</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-5</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>13,700 ft - 16,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>390 kt - 410 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 00:55:55 UTC<br/>2019-03-26 00:56:56 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff00a8ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-78.84736,43.78453,4876.8 -78.74809,43.8121,5425.44</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-6</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>16,000 ft - 17,800 ft</span></div>
+<div><span><b>Speed:</b></span> <span>410 kt - 440 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 00:56:56 UTC<br/>2019-03-26 00:57:37 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff0096ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-78.74809,43.8121,5425.44 -78.70122,43.82322,5425.44</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-7</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>17,800 ft</span></div>
+<div><span><b>Speed:</b></span> <span>440 kt - 430 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 00:57:37 UTC<br/>2019-03-26 00:57:56 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff0096ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-78.70122,43.82322,5425.44 -78.5229,43.8571,6035.04</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-8</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>17,800 ft - 19,800 ft</span></div>
+<div><span><b>Speed:</b></span> <span>430 kt - 450 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 00:57:56 UTC<br/>2019-03-26 00:59:00 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff0054ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-78.5229,43.8571,6035.04 -78.40621,43.88443,6553.2</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-9</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>19,800 ft - 21,500 ft</span></div>
+<div><span><b>Speed:</b></span> <span>450 kt - 460 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 00:59:00 UTC<br/>2019-03-26 00:59:42 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff0030ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-78.40621,43.88443,6553.2 -78.23251,43.9221,7010.4</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-10</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>21,500 ft - 23,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>460 kt - 470 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 00:59:42 UTC<br/>2019-03-26 01:00:37 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff001eff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-78.23251,43.9221,7010.4 -78.04263,43.96272,7467.6</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-11</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>23,000 ft - 24,500 ft</span></div>
+<div><span><b>Speed:</b></span> <span>470 kt - 480 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:00:37 UTC<br/>2019-03-26 01:01:39 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff001eff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-78.04263,43.96272,7467.6 -77.97516,43.97332,7528.56</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-12</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>24,500 ft - 24,700 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:01:39 UTC<br/>2019-03-26 01:02:03 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-77.97516,43.97332,7528.56 -77.53614,44.12072,8991.6</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-13</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>24,700 ft - 29,500 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:02:03 UTC<br/>2019-03-26 01:04:43 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff2400ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-77.53614,44.12072,8991.6 -77.48142,44.15253,9022.08</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-14</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>29,500 ft - 29,600 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:04:43 UTC<br/>2019-03-26 01:05:04 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff3600ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-77.48142,44.15253,9022.08 -77.36912,44.19873,9387.84</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-15</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>29,600 ft - 30,800 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:05:04 UTC<br/>2019-03-26 01:05:43 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff3600ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-77.36912,44.19873,9387.84 -77.199,44.25774,9448.8</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-16</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>30,800 ft - 31,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:05:43 UTC<br/>2019-03-26 01:06:43 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff3600ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-77.199,44.25774,9448.8 -77.02345,44.3206,9448.8</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-17</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>31,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:06:43 UTC<br/>2019-03-26 01:07:36 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff3600ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-77.02345,44.3206,9448.8 -76.82807,44.39169,9448.8</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-18</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>31,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:07:36 UTC<br/>2019-03-26 01:08:38 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff3600ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-76.82807,44.39169,9448.8 -76.65201,44.45146,9448.8</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-19</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>31,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:08:38 UTC<br/>2019-03-26 01:09:36 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff3600ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-76.65201,44.45146,9448.8 -76.48358,44.50791,9448.8</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-20</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>31,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:09:36 UTC<br/>2019-03-26 01:10:37 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff3600ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-76.48358,44.50791,9448.8 -76.30109,44.57653,9448.8</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-21</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>31,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:10:37 UTC<br/>2019-03-26 01:11:38 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff3600ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-76.30109,44.57653,9448.8 -76.12744,44.64469,9448.8</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-22</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>31,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:11:38 UTC<br/>2019-03-26 01:12:41 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff3600ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-76.12744,44.64469,9448.8 -75.95599,44.69519,9448.8</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-23</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>31,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>480 kt - 500 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:12:41 UTC<br/>2019-03-26 01:13:42 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff3600ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-75.95599,44.69519,9448.8 -75.78445,44.7444,9448.8</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-24</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>31,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>500 kt - 520 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:13:42 UTC<br/>2019-03-26 01:14:42 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff3600ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-75.78445,44.7444,9448.8 -75.59023,44.79287,9448.8</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-25</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>31,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>520 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:14:42 UTC<br/>2019-03-26 01:15:42 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff3600ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-75.59023,44.79287,9448.8 -75.40389,44.84109,9418.32</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-26</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>31,000 ft - 30,900 ft</span></div>
+<div><span><b>Speed:</b></span> <span>520 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:15:42 UTC<br/>2019-03-26 01:16:47 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff3600ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-75.40389,44.84109,9418.32 -75.21867,44.89452,8656.32</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-27</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>30,900 ft - 28,400 ft</span></div>
+<div><span><b>Speed:</b></span> <span>520 kt - 510 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:16:47 UTC<br/>2019-03-26 01:17:43 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff2400ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-75.21867,44.89452,8656.32 -75.01343,44.9464,7833.36</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-28</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>28,400 ft - 25,700 ft</span></div>
+<div><span><b>Speed:</b></span> <span>510 kt - 500 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:17:43 UTC<br/>2019-03-26 01:18:54 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-75.01343,44.9464,7833.36 -74.852,44.99488,6949.44</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-29</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>25,700 ft - 22,800 ft</span></div>
+<div><span><b>Speed:</b></span> <span>500 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:18:54 UTC<br/>2019-03-26 01:19:46 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff0030ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-74.852,44.99488,6949.44 -74.66923,45.05552,6217.92</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-30</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>22,800 ft - 20,400 ft</span></div>
+<div><span><b>Speed:</b></span> <span>500 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:19:46 UTC<br/>2019-03-26 01:20:46 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff0054ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-74.66923,45.05552,6217.92 -74.49055,45.12162,5425.44</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-31</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>20,400 ft - 17,800 ft</span></div>
+<div><span><b>Speed:</b></span> <span>500 kt - 490 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:20:46 UTC<br/>2019-03-26 01:21:46 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff0096ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-74.49055,45.12162,5425.44 -74.32692,45.19769,4785.36</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-32</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>17,800 ft - 15,700 ft</span></div>
+<div><span><b>Speed:</b></span> <span>490 kt - 470 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:21:46 UTC<br/>2019-03-26 01:22:50 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff00a8ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-74.32692,45.19769,4785.36 -74.1732,45.26422,4114.8</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-33</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>15,700 ft - 13,500 ft</span></div>
+<div><span><b>Speed:</b></span> <span>470 kt - 440 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:22:50 UTC<br/>2019-03-26 01:23:50 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff00c0ff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-74.1732,45.26422,4114.8 -74.04345,45.33008,3535.68</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-34</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>13,500 ft - 11,600 ft</span></div>
+<div><span><b>Speed:</b></span> <span>440 kt - 410 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:23:50 UTC<br/>2019-03-26 01:24:50 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff00eaff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-74.04345,45.33008,3535.68 -73.97266,45.36996,3139.44</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-35</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>11,600 ft - 10,300 ft</span></div>
+<div><span><b>Speed:</b></span> <span>410 kt - 310 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:24:50 UTC<br/>2019-03-26 01:25:31 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff00ffe4</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-73.97266,45.36996,3139.44 -73.8794,45.4309,2712.72</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-36</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>10,300 ft - 8,900 ft</span></div>
+<div><span><b>Speed:</b></span> <span>310 kt - 280 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:25:31 UTC<br/>2019-03-26 01:26:30 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff00ffd2</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-73.8794,45.4309,2712.72 -73.80245,45.48993,2286</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-37</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>8,900 ft - 7,500 ft</span></div>
+<div><span><b>Speed:</b></span> <span>280 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:26:30 UTC<br/>2019-03-26 01:27:29 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff00ff9c</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-73.80245,45.48993,2286 -73.73405,45.55095,1554.48</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-38</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>7,500 ft - 5,100 ft</span></div>
+<div><span><b>Speed:</b></span> <span>280 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:27:29 UTC<br/>2019-03-26 01:28:30 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff00ff72</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-73.73405,45.55095,1554.48 -73.67131,45.60855,1188.72</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-39</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>5,100 ft - 3,900 ft</span></div>
+<div><span><b>Speed:</b></span> <span>280 kt - 250 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:28:30 UTC<br/>2019-03-26 01:29:33 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff00ff0c</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-73.67131,45.60855,1188.72 -73.6117,45.66285,975.36</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-40</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>3,900 ft - 3,200 ft</span></div>
+<div><span><b>Speed:</b></span> <span>250 kt - 240 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:29:33 UTC<br/>2019-03-26 01:30:41 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff1eff00</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-73.6117,45.66285,975.36 -73.55573,45.67566,944.88</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-41</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>3,200 ft - 3,100 ft</span></div>
+<div><span><b>Speed:</b></span> <span>240 kt - 220 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:30:41 UTC<br/>2019-03-26 01:31:34 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff1eff00</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-73.55573,45.67566,944.88 -73.49779,45.66517,944.88</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-42</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>3,100 ft</span></div>
+<div><span><b>Speed:</b></span> <span>220 kt - 170 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:31:34 UTC<br/>2019-03-26 01:32:35 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff1eff00</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-73.49779,45.66517,944.88 -73.49348,45.63365,883.92</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-43</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>3,100 ft - 2,900 ft</span></div>
+<div><span><b>Speed:</b></span> <span>170 kt - 160 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:32:35 UTC<br/>2019-03-26 01:33:36 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff1eff00</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-73.49348,45.63365,883.92 -73.52645,45.59193,609.6</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-44</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>2,900 ft - 2,000 ft</span></div>
+<div><span><b>Speed:</b></span> <span>160 kt - 150 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:33:36 UTC<br/>2019-03-26 01:34:37 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff42ff00</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-73.52645,45.59193,609.6 -73.57169,45.54554,365.76</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-45</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>2,000 ft - 1,200 ft</span></div>
+<div><span><b>Speed:</b></span> <span>150 kt - 130 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:34:37 UTC<br/>2019-03-26 01:35:35 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>fff0ff00</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-73.57169,45.54554,365.76 -73.7,45.48333,152.4</coordinates>
+          </LineString>
+        </MultiGeometry>
+        <name>P-46</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>1,200 ft - 500 ft</span></div>
+<div><span><b>Speed:</b></span> <span>130 kt</span></div>
+<div><span><b>Timestamp:</b></span><br/><span>2019-03-26 01:35:35 UTC<br/>2019-03-26 01:36:39 UTC</span></div>
+</div>]]></description>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
